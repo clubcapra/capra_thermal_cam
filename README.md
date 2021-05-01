@@ -7,4 +7,9 @@ This node depends on usb_cam.
 
 ## How to use
 - First copy the udev file in your `/etc/udev/rules.d/` folder.
-- Second launch the node
+- Compile the repo inside its workspace
+- Source your repo
+- Launch the node
+  - `roslaunch purethermal_ros purethermal.launch`
+- Launch rqt image viewer
+  - `rosrun rqt_image_view rqt_image_view`
