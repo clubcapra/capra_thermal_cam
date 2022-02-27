@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>purethermal_ros</name>
+  <name>capra_thermal_cam</name>
   <version>0.0.0</version>
-  <description>The purethermal_ros package</description>
+  <description>The capra_thermal_cam package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
